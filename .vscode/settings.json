@@ -1,0 +1,4 @@
+{
+    "maven.executable.options": "C:\\Users\\marga\\.m2\\wrapper\\dists\\apache-maven-3.6.3-bin/mvn",
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
